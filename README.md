@@ -13,3 +13,7 @@ Keras (version 2.3.1 or higher)
 NumPy
 Matplotlib
 OpenCV
+
+## Dataset
+
+https://www.kaggle.com/datasets/arka47/satellitegooglemapsmasks
